@@ -1,0 +1,18 @@
+# Xcode
+DerivedData/
+*.xcuserdata/
+*.xcuserstate
+
+# Build artifacts
+Build/
+*.ipa
+
+# SwiftPM
+.build/
+
+# Cocoapods
+Pods/
+
+# General
+.DS_Store
+
