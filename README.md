@@ -1,4 +1,4 @@
-#Stock Portfolio Tracker
+# Stock Portfolio Tracker
 
 An iOS app built with SwiftUI that tracks stock prices in real-time using the Finnhub API
 
