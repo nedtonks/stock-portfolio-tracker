@@ -1,0 +1,33 @@
+# Xcode
+*.xcuserstate
+*.xcuserdatad
+DerivedData/
+Build/
+*.xcbkptlist
+*.xcscmblueprint
+xcuserdata/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Swift Package Manager
+.swiftpm/
+
+# CocoaPods
+Pods/
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# App icons (large binary files)
+*.png
+*.jpg
+*.jpeg
+!AppIcon.png
+
+# Project specific
+*.png
